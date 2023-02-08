@@ -1,15 +1,15 @@
 ---
 created: 2023-02-08T10:27:54-03:00
-modified: 2023-02-08T10:31:03-03:00
+modified: 2023-02-08T10:32:11-03:00
 ---
 
 # EDUCAÇÃO ANTIRRACISTA
 
-# PROJETO POLÍTICO PEDAGÓGICO
+# **PROJETO POLÍTICO PEDAGÓGICO**
 
-## EDUCAÇÃO ANTIRRACISTA 
+## **EDUCAÇÃO ANTIRRACISTA** 
 
-##**TIPOS DE RACISMO**
+## **TIPOS DE RACISMO**
 
 **Racismo individual**
 **Racismo cultural**
